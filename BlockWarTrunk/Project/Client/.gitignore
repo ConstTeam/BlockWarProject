@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+.vs
+Library
+Temp
+obj
+*.csproj
+*.sln
